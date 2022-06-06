@@ -1,0 +1,24 @@
+input{
+    margin-bottom: 20px;
+    margin-left: 20%;
+}
+#display{
+    height:auto;
+    width: 400px;
+    border:solid 1px black;
+    margin-left: 30%;
+    margin-top: 50px;
+}
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    height:60px;
+    width: 100%;
+    background-color: teal;
+}
+#submit{
+    margin-left: 30%;
+}
+h1{
+    margin-left: 20%;
+}
